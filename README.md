@@ -1,7 +1,7 @@
 system program
 
 
-#ijnclude <stdio.h>
+#include <stdio.h>
 
 main()
 
