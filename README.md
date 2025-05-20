@@ -1,4 +1,4 @@
-system program
+#system program
 
 
 #include <stdio.h>
